@@ -7,7 +7,7 @@ public static void main(String args[]){
    int b=sc.nextInt();  
      
 
-System.out.println("Subtraction : "+ (a*b));
+System.out.println("Multitiplication : "+ (a*b));
 
 }
 }
